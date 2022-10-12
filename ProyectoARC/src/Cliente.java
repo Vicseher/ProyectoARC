@@ -2,6 +2,9 @@ import java.io.*;
 import java.net.Socket;
 import java.util.*;
 import java.util.logging.*;
+/*
+    Prueba de commit
+*/
 class Persona extends Thread {
     protected Socket sk;
     protected DataOutputStream dos;
